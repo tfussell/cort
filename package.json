@@ -1,0 +1,28 @@
+{
+  "name": "cort",
+  "version": "0.1.0",
+  "description": "a platform for simulating and interacting with neural networks",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "make -C build/gmake test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tfussell/cort"
+  },
+  "keywords": [
+    "bnn",
+    "ann",
+    "neural",
+    "threejs"
+  ],
+  "author": "Thomas Fussell <thomas.fussell@gmail.com> (https://thomas.fussell.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tfussell/cort/issues"
+  },
+  "homepage": "https://github.com/tfussell/cort"
+}

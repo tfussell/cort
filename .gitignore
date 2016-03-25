@@ -1,0 +1,11 @@
+*~
+#*#
+.DS_Store
+*.sdf
+*.suo
+*.opensdf
+*.vcxproj.user
+*.o
+*.d
+build*/
+third-party/

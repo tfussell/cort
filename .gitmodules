@@ -1,0 +1,4 @@
+[submodule "viewer"]
+	path = viewer
+	url = git@github.com:tfussell/cort.git
+	branch = gh-pages
